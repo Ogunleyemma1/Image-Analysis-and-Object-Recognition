@@ -26,6 +26,8 @@ This repository contains a set of tasks for image processing, including loading 
 
 This project provides code to work with various image processing tasks, such as contrast enhancement, binary mask creation, and morphological transformations. These tasks are useful for analyzing and processing satellite or other types of images.
 
+Link to Google Doc:  https://docs.google.com/document/d/1CyqUbxwaPy5U-eUCeFgsEtTNaTK9jOs68_LFn0OHZCs/edit?usp=sharing
+
 ## Requirements
 
 - MATLAB
